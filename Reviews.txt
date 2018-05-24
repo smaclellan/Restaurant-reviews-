@@ -1,0 +1,17 @@
+4
+Chili's
+AmericanizedMexican
+10.95
+3
+BurgerKing
+American
+4.50
+2
+IHOP
+American
+9.50
+1
+OliveGarden
+AmericanizedItalian
+11.00
+4
